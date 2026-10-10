@@ -9,3 +9,9 @@
   (constraint hole_size (min 0.3mm)))
 (rule "EasyEDA hole to hole"
   (constraint hole_to_hole (min 0.3mm)))
+(rule "EasyEDA diff pair gap"
+  (constraint diff_pair_gap (min 0.1524mm)))
+(rule "EasyEDA solder mask expansion"
+  (constraint solder_mask_expansion (min 0.0508mm)))
+(rule "EasyEDA solder paste margin"
+  (constraint solder_paste_abs_margin (min 0mm)))
