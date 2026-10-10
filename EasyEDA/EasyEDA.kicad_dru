@@ -1,0 +1,5 @@
+(version 1)
+(rule "EasyEDA solder mask expansion"
+  (constraint solder_mask_expansion (min 0.0508mm)))
+(rule "EasyEDA solder paste margin"
+  (constraint solder_paste_abs_margin (min 0mm)))
