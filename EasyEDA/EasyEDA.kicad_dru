@@ -1,0 +1,11 @@
+(version 1)
+(rule "EasyEDA min clearance"
+  (constraint clearance (min 0.102mm)))
+(rule "EasyEDA min track width"
+  (constraint track_width (min 0.127mm)))
+(rule "EasyEDA min via diameter"
+  (constraint via_diameter (min 0.5mm)))
+(rule "EasyEDA min via hole"
+  (constraint hole_size (min 0.3mm)))
+(rule "EasyEDA hole to hole"
+  (constraint hole_to_hole (min 0.3mm)))
