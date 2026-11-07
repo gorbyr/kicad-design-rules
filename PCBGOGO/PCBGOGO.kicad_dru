@@ -1,5 +1,5 @@
 (version 1)
-# Source and scope: README.md (checked 2026-11-07).
+# Source: README.md (checked 2026-11-07).
 (rule "TH pad annular ring"
   (condition "A.Pad_Type == 'Through-hole'")
   (constraint annular_width (min 0.13mm)))
