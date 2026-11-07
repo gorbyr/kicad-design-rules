@@ -12,3 +12,5 @@ Design Rules in KiCad.
   - [PCB_Specification_FAQ.pdf](https://www.elecrow.com/download/quote/PCB_Specification_FAQ.pdf)
 - PCBGOGO
   - [FR-4 PCB Manufacturing](https://www.pcbgogo.com/capabilities/fr-4-pcb-manufacturing.html)
+- P板.com
+  - [標準規格／仕様一覧](https://www.p-ban.com/quality/spec.html)
